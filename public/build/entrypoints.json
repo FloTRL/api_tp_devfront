@@ -1,0 +1,13 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/devFrontAvanceAPI/public/build/runtime.js",
+        "/devFrontAvanceAPI/public/build/app.js"
+      ],
+      "css": [
+        "/devFrontAvanceAPI/public/build/app.css"
+      ]
+    }
+  }
+}
